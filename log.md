@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2021-06-06: working on DOM manipulation
 - 2021-06-05: Finished javaScript exercises
 - 2021-06-04: working on javaScript exercises
 - 2021-05-30: Continuing work on problem solving section
