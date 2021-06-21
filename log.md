@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2021-06-21: I have been struggling with the calculator JS, so I have started going through JS30.
 - 2021-06-17: working on javascript exercises
 - 2021-06-10: working on rock/paper/scissors
 - 2021-06-06: working on DOM manipulation
