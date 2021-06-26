@@ -1,6 +1,8 @@
 #### Activity Log
 
-= 2021-06-24: more work on JS30
+- 2021-06-26: more JS30.  Only 25 minutes since I drank some alcohol and have a headache.
+- 2021-06-25: worked on JS30 + calculator JS
+- 2021-06-24: more work on JS30
 - 2021-06-22: Working on JS30
 - 2021-06-21: I have been struggling with the calculator JS, so I have started going through JS30.
 - 2021-06-17: working on javascript exercises
