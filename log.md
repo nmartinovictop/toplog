@@ -1,5 +1,12 @@
 #### Activity Log
 
+- 2021-08-18: working on webpack
+- 2021-07-04: struggling with the negator.  I need to rewrite the display
+- 2021-07-03: Working on calculator.  Need to figure out how to do negator.
+- 2021-07-01: More JS30 and calculator
+- 2021-06-30: more work on JS30 and calculator
+- 2021-06-28: work on JS30 and calculator.  Pretty happy with JS progress
+- 2021-06-27: more JS30 and also working on calculator
 - 2021-06-26: more JS30.  Only 25 minutes since I drank some alcohol and have a headache.
 - 2021-06-25: worked on JS30 + calculator JS
 - 2021-06-24: more work on JS30
