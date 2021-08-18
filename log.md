@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2021-08-19: continuing work on webpack
 - 2021-08-18: working on webpack
 - 2021-07-04: struggling with the negator.  I need to rewrite the display
 - 2021-07-03: Working on calculator.  Need to figure out how to do negator.
