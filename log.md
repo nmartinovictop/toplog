@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2021-10-12: working on linting
 - 2021-10-11: working on exercism
 - 2021-08-25: working on making a site via javascript only and webpack
 - 2021-08-20: finished webpack but going through videos to solidify understanding
