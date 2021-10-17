@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2021-10-18; back to founadations
 - 2021-10-14: back to foundations because I was having trouble with dropdown
 - 2021-10-13: finished linting and prettier.  Starting on dynamic user interface
 - 2021-10-12: working on linting
