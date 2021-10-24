@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2021-10-25: flexbox
 - 2021-10-21: flexbox
 - 2021-10-20: css foundations
 - 2021-10-18; back to founadations
