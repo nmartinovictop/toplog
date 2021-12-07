@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2021-12-07: installed on work machine
 - 2021-10-26: flexbox
 - 2021-10-25: flexbox
 - 2021-10-21: flexbox
