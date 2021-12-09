@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2021-12-09: working through ruby section
 - 2021-12-08: started working on ruby
 - 2021-12-07: installed on work machine
 - 2021-10-26: flexbox
