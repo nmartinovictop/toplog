@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2021-12-13: working on ruby enumerables
 - 2021-12-10: finished arrays and hashes, starting on methods
 - 2021-12-09: working through ruby section
 - 2021-12-08: started working on ruby
