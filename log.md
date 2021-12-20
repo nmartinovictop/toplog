@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2021-12-20: classes
 - 2021-12-15: working on caesar cypher
 - 2021-12-14: ruby stuff
 - 2021-12-13: working on ruby enumerables
