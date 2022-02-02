@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2022-02-02: finished custom enumerables project
 - 2022-02-01: blocks
 - 2021-12-21: classes
 - 2021-12-20: classes
