@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2022-02-08: finished fibonacci
 - 2022-02-07: continuing recursion
 - 2022-02-04: continuing recursion
 - 2022-02-03: recursion
