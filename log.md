@@ -1,5 +1,6 @@
 #### Activity Log
 
+- 2022-02-09: working on merge sort
 - 2022-02-08: finished fibonacci
 - 2022-02-07: continuing recursion
 - 2022-02-04: continuing recursion
