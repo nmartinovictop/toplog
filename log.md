@@ -1,5 +1,9 @@
 #### Activity Log
 
+- 2022-02-24: working on bst
+- 2022-02-21: finished linkedlists
+- 2022-02-18: continuing work on linkedlists
+- 2022-02-17: working on linkedlists project
 - 2022-02-16: working on data structures
 - 2022-02-15: finished recursion
 - 2022-02-09: working on merge sort
