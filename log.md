@@ -1,5 +1,5 @@
 #### Activity Log
-
+- 2022-04-19: working on bst
 - 2022-02-24: working on bst
 - 2022-02-21: finished linkedlists
 - 2022-02-18: continuing work on linkedlists
