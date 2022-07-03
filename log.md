@@ -1,4 +1,9 @@
 #### Activity Log
+2022-07-03|https://www.theodinproject.com/lessons/foundations-command-line-basics|started over with TOP
+
+
+
+
 - 2022-04-20: working on bst
 - 2022-04-19: working on bst
 - 2022-02-24: working on bst
