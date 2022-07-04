@@ -1,5 +1,6 @@
 #### Activity Log
-2022-07-03|https://www.theodinproject.com/lessons/foundations-command-line-basics|started over with TOP
+2022-07-04|https://www.theodinproject.com/lessons/foundations-setting-up-git|working on command line|1
+2022-07-03|https://www.theodinproject.com/lessons/foundations-command-line-basics|started over with TOP|2
 
 
 
