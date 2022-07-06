@@ -1,5 +1,6 @@
 #### Activity Log
 DATE|LINK|COMMENT|SESSIONS
+2022-07-06|https://www.theodinproject.com/lessons/foundations-links-and-images|worked through basic html.  Now on links|1
 2022-07-05|https://www.theodinproject.com/lessons/foundations-html-boilerplate|starting HTML work, finished GIT basics|1
 2022-07-04|https://www.theodinproject.com/lessons/foundations-setting-up-git|working on command line|1
 2022-07-03|https://www.theodinproject.com/lessons/foundations-command-line-basics|started over with TOP|2
