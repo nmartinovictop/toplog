@@ -1,5 +1,8 @@
 #### Activity Log
 DATE|LINK|COMMENT|SESSIONS
+2022-07-09|https://www.theodinproject.com/lessons/foundations-alignment|worked up to Flexbox.  NEXT: Continue on Flexbox exercises|4
+2022-07-08|https://www.theodinproject.com/lessons/foundations-css-foundations| finished html project.  Started reading CSS.  NexT: go through CSS foundations practice|1
+2022-07-07|https://www.theodinproject.com/lessons/foundations-recipes|worked through more html and just started on recipe project|1
 2022-07-06|https://www.theodinproject.com/lessons/foundations-links-and-images|worked through basic html.  Now on links|1
 2022-07-05|https://www.theodinproject.com/lessons/foundations-html-boilerplate|starting HTML work, finished GIT basics|1
 2022-07-04|https://www.theodinproject.com/lessons/foundations-setting-up-git|working on command line|1
