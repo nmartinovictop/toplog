@@ -1,5 +1,6 @@
 #### Activity Log
 DATE|LINK|COMMENT|SESSIONS
+2022-07-10|https://www.theodinproject.com/lessons/foundations-alignment|working on flexbox exercises.  Having some trouble with Modal. NEXT: fix modal|1
 2022-07-09|https://www.theodinproject.com/lessons/foundations-alignment|worked up to Flexbox.  NEXT: Continue on Flexbox exercises|4
 2022-07-08|https://www.theodinproject.com/lessons/foundations-css-foundations| finished html project.  Started reading CSS.  NexT: go through CSS foundations practice|1
 2022-07-07|https://www.theodinproject.com/lessons/foundations-recipes|worked through more html and just started on recipe project|1
