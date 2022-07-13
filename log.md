@@ -1,5 +1,7 @@
 #### Activity Log
 DATE|LINK|COMMENT|SESSIONS
+2022-07-13|https://www.theodinproject.com/lessons/foundations-landing-page|Working on Landing page.  NEXT: continue or using flexbox for HERO|1
+2022-07-12|https://www.theodinproject.com/lessons/foundations-landing-page|Finished Flexbox exercises.  Working on Landing page exercise.  NEXT: Finish work on landing page exercise|1
 2022-07-11|https://www.theodinproject.com/lessons/foundations-alignment|Continuing work on flexbox exercises.  NEXT: continue work on Holy Grail exercise|1
 2022-07-10|https://www.theodinproject.com/lessons/foundations-alignment|working on flexbox exercises.  Having some trouble with Modal. NEXT: fix modal|1
 2022-07-09|https://www.theodinproject.com/lessons/foundations-alignment|worked up to Flexbox.  NEXT: Continue on Flexbox exercises|4
