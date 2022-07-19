@@ -1,5 +1,7 @@
 #### Activity Log
 DATE|LINK|COMMENT|SESSIONS
+2022-07-19|https://www.theodinproject.com/lessons/foundations-fundamentals-part-4|Now working on JS exercises|1
+2022-07-14|https://www.theodinproject.com/lessons/foundations-landing-page|Finished Hero section.  Next: Continue work on info section|1
 2022-07-13|https://www.theodinproject.com/lessons/foundations-landing-page|Working on Landing page.  NEXT: continue or using flexbox for HERO|1
 2022-07-12|https://www.theodinproject.com/lessons/foundations-landing-page|Finished Flexbox exercises.  Working on Landing page exercise.  NEXT: Finish work on landing page exercise|1
 2022-07-11|https://www.theodinproject.com/lessons/foundations-alignment|Continuing work on flexbox exercises.  NEXT: continue work on Holy Grail exercise|1
