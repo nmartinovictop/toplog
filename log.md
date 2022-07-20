@@ -1,5 +1,6 @@
 #### Activity Log
 DATE|LINK|COMMENT|SESSIONS
+2022-07-20|https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events|Finished JS exercises.  Working on DOM manipulation|1
 2022-07-19|https://www.theodinproject.com/lessons/foundations-fundamentals-part-4|Now working on JS exercises|1
 2022-07-14|https://www.theodinproject.com/lessons/foundations-landing-page|Finished Hero section.  Next: Continue work on info section|1
 2022-07-13|https://www.theodinproject.com/lessons/foundations-landing-page|Working on Landing page.  NEXT: continue or using flexbox for HERO|1
