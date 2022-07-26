@@ -1,5 +1,6 @@
 #### Activity Log
 DATE|LINK|COMMENT|SESSIONS
+2022-07-26|https://www.theodinproject.com/lessons/foundations-fundamentals-part-5| Finished JS Fundamentals 5|1
 2022-07-21|https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events|Working on Wes Box|1
 2022-07-20|https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events|Finished JS exercises.  Working on DOM manipulation|1
 2022-07-19|https://www.theodinproject.com/lessons/foundations-fundamentals-part-4|Now working on JS exercises|1
