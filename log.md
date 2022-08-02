@@ -1,5 +1,8 @@
 #### Activity Log
 DATE|LINK|COMMENT|SESSIONS
+2022-08-02|https://www.theodinproject.com/lessons/ruby-debugging| Started on ruby debugging|1
+2022-7-30|https://www.theodinproject.com/lessons/ruby-arrays|Have started ruby foundations|3
+2022-07-28|https://www.theodinproject.com/lessons/foundations-calculator|Started work on calculator and finished outline|1
 2022-07-26|https://www.theodinproject.com/lessons/foundations-fundamentals-part-5| Finished JS Fundamentals 5|1
 2022-07-21|https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events|Working on Wes Box|1
 2022-07-20|https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events|Finished JS exercises.  Working on DOM manipulation|1
