@@ -1,5 +1,6 @@
 #### Activity Log
 DATE|LINK|COMMENT|SESSIONS
+2022-10-12|advent of code
 2022-08-02|https://www.theodinproject.com/lessons/ruby-debugging| Started on ruby debugging|1
 2022-7-30|https://www.theodinproject.com/lessons/ruby-arrays|Have started ruby foundations|3
 2022-07-28|https://www.theodinproject.com/lessons/foundations-calculator|Started work on calculator and finished outline|1
